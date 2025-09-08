@@ -41,7 +41,7 @@ Wireshark es considerado un estándar de facto para el análisis de tráfico de 
 | **Wireshark**     | Sí               | Muy alta            | GPL      | Muy completo, estándar en la industria.               |
 | **tcpdump**       | No (solo CLI)    | Alta                | BSD      | Potente, pero sin GUI y con curva de aprendizaje.     |
 | **NetworkMiner**  | Sí               | Media               | Freeware | Visual y útil para análisis forense, pero limitada.   |
-| **Snort**         | No (CLI + reglas)| Alta                | GPL      | Enfocado en detección de intrusiones, no análisis.    |
+| **Snort**         | No (CLI + reglas)| Alta                | GPL      | Enfocado en detección de intrusiones, no análisis..    |
 
 
 ## 4. Fundamentos y referencias
